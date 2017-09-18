@@ -3,7 +3,7 @@ title: Open Water Data
 description: "for integrated water science"
 org_title: Datameet
 org_url: "http://datameet.org"
-url: "https://datameet-pune.github.io"
+url: "https://craigds.github.io"
 
 
 
@@ -15,7 +15,7 @@ headercolor: "#FFFFFF"
 logo: /open-water-data/img/logos/datameet_logo.png
 
 # Tertiary Parameters
-github_username:  datameet-pune
+github_username:  craigdsouza
 project_repository: open-water-data
 disqus_shortname: open-water-data
 g-analytics: UA-71858173-8
@@ -43,7 +43,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://datameet-pune.github.io/open-water-data/'
+  siteurl: 'http://craigds.github.io/open-water-data/'
   ispp: true
   media: 'img'
   metadata:
@@ -108,7 +108,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://datameet-pune.github.io/open-water-data/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://craigds.github.io/open-water-data/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -116,7 +116,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://datameet-pune.github.io/open-water-data/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="http://craigds.github.io/open-water-data/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
